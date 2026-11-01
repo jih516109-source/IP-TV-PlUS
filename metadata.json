@@ -1,0 +1,8 @@
+{
+  "name": "Remix Smart TV Plus",
+  "description": "Watch live TV channels with modern player, category browsing, and favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
